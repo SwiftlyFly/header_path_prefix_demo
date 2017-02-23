@@ -1,0 +1,9 @@
+# //ViewController:ViewController
+apple_library(
+  name = 'ViewController',
+  header_path_prefix = '',
+  preprocessor_flags = ['-fobjc-arc'],
+  headers = glob(['*.h']),
+  srcs = glob(['*.m']),
+  visibility = ['PUBLIC'],
+)

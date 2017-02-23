@@ -1,0 +1,5 @@
+InvocationInfo {"buildId":"5b0140b0-4d33-4135-8f66-051eda24624a","superConsoleEnabled":false,"isDaemon":true,"subCommand":"buildcommand","timestampMillis":1487818707435}
+ParseStarted {"timestamp":1487818707954}
+ParseFinished {"timestamp":1487818707970}
+BuildRuleEvent.Finished {"timestamp":1487818708005,"status":"SUCCESS","cacheResult":{"type":"LOCAL_KEY_UNCHANGED_HIT","cacheSource":null},"ruleKeys":{"ruleKey":{"hashCode":"13dca63e9a03808001b3004dab700947982cb608"},"inputRuleKey":{"hashCode":"d58e0d0d672ad0798f6b4ad5a76d6404445d5f95"}},"outputHash":null,"buildRule":{"name":"//ViewController:ViewController#iphonesimulator-x86_64,static"}}
+ExitCode {"exitCode":0}

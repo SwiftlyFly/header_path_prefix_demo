@@ -1,0 +1,5 @@
+InvocationInfo {"buildId":"cf980525-8858-449b-810e-e2a151f219ff","superConsoleEnabled":false,"isDaemon":true,"subCommand":"buildcommand","timestampMillis":1487818783938}
+ParseStarted {"timestamp":1487818784631}
+ParseFinished {"timestamp":1487818784959}
+BuildRuleEvent.Finished {"timestamp":1487818785045,"status":"SUCCESS","cacheResult":{"type":"LOCAL_KEY_UNCHANGED_HIT","cacheSource":null},"ruleKeys":{"ruleKey":{"hashCode":"7cb76e45401da43c6ce43906e28f2dd8f30c63bb"},"inputRuleKey":null},"outputHash":null,"buildRule":{"name":"//:Demo#dwarf-and-dsym,iphonesimulator-x86_64,no-include-frameworks"}}
+ExitCode {"exitCode":0}

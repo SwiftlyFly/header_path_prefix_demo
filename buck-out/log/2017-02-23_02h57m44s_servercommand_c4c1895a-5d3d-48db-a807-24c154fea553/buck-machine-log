@@ -1,0 +1,4 @@
+InvocationInfo {"buildId":"c4c1895a-5d3d-48db-a807-24c154fea553","superConsoleEnabled":false,"isDaemon":true,"subCommand":"servercommand","timestampMillis":1487818664079}
+FileDelete {"timestamp":1487818664619,"filename":"Info.plist.sb-a13f7e12-Y5YzCj"}
+FileDelete {"timestamp":1487818664624,"filename":"Info.plist.sb-a13f7e12-XGXJRs"}
+ExitCode {"exitCode":0}

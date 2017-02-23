@@ -1,0 +1,151 @@
+# Path: buck-out/gen/TodayExtension/DemoExtensionLibrary#iphonesimulator-x86_64,shared/libTodayExtension_DemoExtensionLibrary.dylib
+# Arch: x86_64
+# Object files:
+[  0] linker synthesized
+[  1] buck-out/gen/TodayExtension/DemoExtensionLibrary#compile-pic-TodayViewController.m.o42007ea7,iphonesimulator-x86_64/TodayViewController.m.o
+[  2] /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/lib/libobjc.A.dylib
+# Sections:
+# Address	Size    	Segment	Section
+0x00001920	0x0000027E	__TEXT	__text
+0x00001B9E	0x0000001E	__TEXT	__stubs
+0x00001BBC	0x00000042	__TEXT	__stub_helper
+0x00001C00	0x00000010	__TEXT	__const
+0x00001C10	0x00000208	__TEXT	__objc_methname
+0x00001E18	0x0000004D	__TEXT	__cstring
+0x00001E65	0x0000002F	__TEXT	__objc_classname
+0x00001E94	0x0000011A	__TEXT	__objc_methtype
+0x00001FB0	0x00000048	__TEXT	__unwind_info
+0x00002000	0x00000010	__DATA	__nl_symbol_ptr
+0x00002010	0x00000028	__DATA	__la_symbol_ptr
+0x00002038	0x00000020	__DATA	__cfstring
+0x00002058	0x00000008	__DATA	__objc_classlist
+0x00002060	0x00000010	__DATA	__objc_protolist
+0x00002070	0x00000008	__DATA	__objc_imageinfo
+0x00002078	0x00000498	__DATA	__objc_const
+0x00002510	0x00000048	__DATA	__objc_selrefs
+0x00002558	0x00000010	__DATA	__objc_classrefs
+0x00002568	0x00000008	__DATA	__objc_superrefs
+0x00002570	0x00000050	__DATA	__objc_data
+0x000025C0	0x000000C0	__DATA	__data
+# Symbols:
+# Address	Size    	File  Name
+0x00001920	0x00000180	[  1] -[TodayViewController viewDidLoad]
+0x00001AA0	0x00000070	[  1] _CGRectMake
+0x00001B10	0x00000040	[  1] -[TodayViewController didReceiveMemoryWarning]
+0x00001B50	0x0000004E	[  1] -[TodayViewController widgetPerformUpdateWithCompletionHandler:]
+0x00001B9E	0x00000006	[  2] _objc_msgSend
+0x00001BA4	0x00000006	[  2] _objc_msgSendSuper2
+0x00001BAA	0x00000006	[  2] _objc_release
+0x00001BB0	0x00000006	[  2] _objc_retainAutoreleasedReturnValue
+0x00001BB6	0x00000006	[  2] _objc_storeStrong
+0x00001BBC	0x00000010	[  0] helper helper
+0x00001BCC	0x0000000A	[  2] _objc_msgSend
+0x00001BD6	0x0000000A	[  2] _objc_msgSendSuper2
+0x00001BE0	0x0000000A	[  2] _objc_release
+0x00001BEA	0x0000000A	[  2] _objc_retainAutoreleasedReturnValue
+0x00001BF4	0x0000000A	[  2] _objc_storeStrong
+0x00001C00	0x00000008	[  1] 8-byte-literal
+0x00001C08	0x00000008	[  1] 8-byte-literal
+0x00001C10	0x0000000C	[  1] literal string: viewDidLoad
+0x00001C1C	0x00000006	[  1] literal string: alloc
+0x00001C22	0x0000000F	[  1] literal string: initWithFrame:
+0x00001C31	0x00000005	[  1] literal string: view
+0x00001C36	0x0000000C	[  1] literal string: addSubview:
+0x00001C42	0x00000009	[  1] literal string: setText:
+0x00001C4B	0x00000009	[  1] literal string: redColor
+0x00001C54	0x00000014	[  1] literal string: setBackgroundColor:
+0x00001C68	0x00000018	[  1] literal string: didReceiveMemoryWarning
+0x00001C80	0x0000002A	[  1] literal string: widgetPerformUpdateWithCompletionHandler:
+0x00001CAA	0x00000032	[  1] literal string: widgetActiveDisplayModeDidChange:withMaximumSize:
+0x00001CDC	0x0000002B	[  1] literal string: widgetMarginInsetsForProposedMarginInsets:
+0x00001D07	0x00000009	[  1] literal string: isEqual:
+0x00001D10	0x00000006	[  1] literal string: class
+0x00001D16	0x00000005	[  1] literal string: self
+0x00001D1B	0x00000011	[  1] literal string: performSelector:
+0x00001D2C	0x0000001C	[  1] literal string: performSelector:withObject:
+0x00001D48	0x00000027	[  1] literal string: performSelector:withObject:withObject:
+0x00001D6F	0x00000008	[  1] literal string: isProxy
+0x00001D77	0x0000000F	[  1] literal string: isKindOfClass:
+0x00001D86	0x00000011	[  1] literal string: isMemberOfClass:
+0x00001D97	0x00000014	[  1] literal string: conformsToProtocol:
+0x00001DAB	0x00000014	[  1] literal string: respondsToSelector:
+0x00001DBF	0x00000007	[  1] literal string: retain
+0x00001DC6	0x00000008	[  1] literal string: release
+0x00001DCE	0x0000000C	[  1] literal string: autorelease
+0x00001DDA	0x0000000C	[  1] literal string: retainCount
+0x00001DE6	0x00000005	[  1] literal string: zone
+0x00001DEB	0x00000005	[  1] literal string: hash
+0x00001DF0	0x0000000B	[  1] literal string: superclass
+0x00001DFB	0x0000000C	[  1] literal string: description
+0x00001E07	0x00000011	[  1] literal string: debugDescription
+0x00001E18	0x00000005	[  1] literal string: haha
+0x00001E1D	0x00000005	[  1] literal string: hash
+0x00001E22	0x00000005	[  1] literal string: TQ,R
+0x00001E27	0x0000000B	[  1] literal string: superclass
+0x00001E32	0x00000005	[  1] literal string: T#,R
+0x00001E37	0x0000000C	[  1] literal string: description
+0x00001E43	0x00000011	[  1] literal string: T@"NSString",R,C
+0x00001E54	0x00000011	[  1] literal string: debugDescription
+0x00001E65	0x00000014	[  1] literal string: TodayViewController
+0x00001E79	0x00000012	[  1] literal string: NCWidgetProviding
+0x00001E8B	0x00000009	[  1] literal string: NSObject
+0x00001E94	0x0000000C	[  1] literal string: v24@0:8@?16
+0x00001EA0	0x00000012	[  1] literal string: v24@0:8@?<v@?Q>16
+0x00001EB2	0x00000018	[  1] literal string: v40@0:8q16{CGSize=dd}24
+0x00001ECA	0x0000002F	[  1] literal string: {UIEdgeInsets=dddd}48@0:8{UIEdgeInsets=dddd}16
+0x00001EF9	0x0000000B	[  1] literal string: B24@0:8@16
+0x00001F04	0x00000008	[  1] literal string: #16@0:8
+0x00001F0C	0x00000008	[  1] literal string: @16@0:8
+0x00001F14	0x0000000B	[  1] literal string: @24@0:8:16
+0x00001F1F	0x0000000E	[  1] literal string: @32@0:8:16@24
+0x00001F2D	0x00000011	[  1] literal string: @40@0:8:16@24@32
+0x00001F3E	0x00000008	[  1] literal string: B16@0:8
+0x00001F46	0x0000000B	[  1] literal string: B24@0:8#16
+0x00001F51	0x00000015	[  1] literal string: B24@0:8@"Protocol"16
+0x00001F66	0x0000000B	[  1] literal string: B24@0:8:16
+0x00001F71	0x00000009	[  1] literal string: Vv16@0:8
+0x00001F7A	0x00000008	[  1] literal string: Q16@0:8
+0x00001F82	0x00000012	[  1] literal string: ^{_NSZone=}16@0:8
+0x00001F94	0x00000012	[  1] literal string: @"NSString"16@0:8
+0x00001FA6	0x00000008	[  1] literal string: v16@0:8
+0x00001FB0	0x00000048	[  0] compact unwind info
+0x00002000	0x00000008	[  0] non-lazy-pointer-to-local: dyld_stub_binder
+0x00002008	0x00000008	[  0] non-lazy-pointer
+0x00002010	0x00000008	[  2] _objc_msgSend
+0x00002018	0x00000008	[  2] _objc_msgSendSuper2
+0x00002020	0x00000008	[  2] _objc_release
+0x00002028	0x00000008	[  2] _objc_retainAutoreleasedReturnValue
+0x00002030	0x00000008	[  2] _objc_storeStrong
+0x00002038	0x00000020	[  1] CFString
+0x00002058	0x00000008	[  1] anon
+0x00002060	0x00000008	[  1] l_OBJC_LABEL_PROTOCOL_$_NSObject
+0x00002068	0x00000008	[  1] l_OBJC_LABEL_PROTOCOL_$_NCWidgetProviding
+0x00002070	0x00000008	[  0] objc image info
+0x00002078	0x000001D0	[  1] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+0x00002248	0x00000020	[  1] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+0x00002268	0x00000048	[  1] l_OBJC_$_PROP_LIST_NSObject
+0x000022B0	0x000000A0	[  1] l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+0x00002350	0x00000018	[  1] l_OBJC_$_PROTOCOL_REFS_NCWidgetProviding
+0x00002368	0x00000050	[  1] l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NCWidgetProviding
+0x000023B8	0x00000018	[  1] l_OBJC_$_PROTOCOL_METHOD_TYPES_NCWidgetProviding
+0x000023D0	0x00000018	[  1] l_OBJC_CLASS_PROTOCOLS_$_TodayViewController
+0x000023E8	0x00000048	[  1] l_OBJC_METACLASS_RO_$_TodayViewController
+0x00002430	0x00000050	[  1] l_OBJC_$_INSTANCE_METHODS_TodayViewController
+0x00002480	0x00000048	[  1] l_OBJC_$_PROP_LIST_TodayViewController
+0x000024C8	0x00000048	[  1] l_OBJC_CLASS_RO_$_TodayViewController
+0x00002510	0x00000008	[  1] pointer-to-literal-cstring
+0x00002518	0x00000008	[  1] pointer-to-literal-cstring
+0x00002520	0x00000008	[  1] pointer-to-literal-cstring
+0x00002528	0x00000008	[  1] pointer-to-literal-cstring
+0x00002530	0x00000008	[  1] pointer-to-literal-cstring
+0x00002538	0x00000008	[  1] pointer-to-literal-cstring
+0x00002540	0x00000008	[  1] pointer-to-literal-cstring
+0x00002548	0x00000008	[  1] pointer-to-literal-cstring
+0x00002550	0x00000008	[  1] pointer-to-literal-cstring
+0x00002558	0x00000008	[  1] objc-class-ref
+0x00002560	0x00000008	[  1] objc-class-ref
+0x00002568	0x00000008	[  1] anon
+0x00002570	0x00000028	[  1] _OBJC_CLASS_$_TodayViewController
+0x00002598	0x00000028	[  1] _OBJC_METACLASS_$_TodayViewController
+0x000025C0	0x00000060	[  1] l_OBJC_PROTOCOL_$_NSObject
+0x00002620	0x00000060	[  1] l_OBJC_PROTOCOL_$_NCWidgetProviding
